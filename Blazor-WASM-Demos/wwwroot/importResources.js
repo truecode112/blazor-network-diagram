@@ -102,7 +102,7 @@ themeSwitch();
 dynamicResources();
 setTimeout(LoadingText, 400);
 function LoadingText() {
-    document.getElementById("Loading-Text").innerHTML = "Loading Syncfusion Blazor Web Assembly Demos…"
+    document.getElementById("Loading-Text").innerHTML = "Loading Network Diagram …"
 }
 
 

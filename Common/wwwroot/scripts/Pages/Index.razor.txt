@@ -243,7 +243,7 @@
         </div>
         <div id="diagram-space" class="sb-mobile-diagram">
             <div class="content-wrapper" style="border: 1px solid #D7D7D7">
-                <SfDiagramComponent @ref="@DInstance" Height="687px" DragDrop="@DragDrop" Nodes="@nodes" Connectors="@connectors">
+                <SfDiagramComponent @ref="@DInstance" Height="887px" DragDrop="@DragDrop" Nodes="@nodes" Connectors="@connectors">
                     <DiagramTemplates>
                         <NodeTemplate>
                             @{

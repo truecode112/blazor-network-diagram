@@ -40,41 +40,20 @@
     <PackageReference Include="Syncfusion.Blazor.Buttons" Version="21.1.35" />
     <PackageReference Include="Syncfusion.Blazor.Cards" Version="21.1.35" />
     <PackageReference Include="Syncfusion.Blazor.Spinner" Version="21.1.35" />
-    <PackageReference Include="Syncfusion.Blazor.BarcodeGenerator" Version="21.1.35" />
-    <PackageReference Include="Syncfusion.Blazor.CircularGauge" Version="21.1.35" />
-    <PackageReference Include="Syncfusion.Blazor.LinearGauge" Version="21.1.35" />
-    <PackageReference Include="Syncfusion.Blazor.Notifications" Version="21.1.35" />
-    <PackageReference Include="Syncfusion.Blazor.Popups" Version="21.1.35" />
     <PackageReference Include="Syncfusion.Blazor.SplitButtons" Version="21.1.35" />
     <PackageReference Include="Syncfusion.Blazor.Layouts" Version="21.1.35" />
-    <PackageReference Include="Syncfusion.Blazor.Inputs" Version="21.1.35" />
-    <PackageReference Include="Syncfusion.Blazor.Calendars" Version="21.1.35" />
-    <PackageReference Include="Syncfusion.Blazor.Navigations" Version="21.1.35" />
     <PackageReference Include="Syncfusion.Blazor.Diagrams" Version="21.1.35" />
     <PackageReference Include="Syncfusion.Blazor.Diagram" Version="21.1.35" />
-    <PackageReference Include="Syncfusion.Blazor.DropDowns" Version="21.1.35" />
-    <PackageReference Include="Syncfusion.Blazor.RichTextEditor" Version="21.1.35" />
     <PackageReference Include="Syncfusion.Blazor.QueryBuilder" Version="21.1.35" />
     <PackageReference Include="Syncfusion.Blazor.Schedule" Version="21.1.35" />
-    <PackageReference Include="Syncfusion.Blazor.Kanban" Version="21.1.35" />
-    <PackageReference Include="Syncfusion.Blazor.Grid" Version="21.1.35" />
     <PackageReference Include="Syncfusion.Blazor.TreeGrid" Version="21.1.35" />
-    <PackageReference Include="Syncfusion.Blazor.Gantt" Version="21.1.35" />
     <PackageReference Include="Syncfusion.Blazor.TreeMap" Version="21.1.35" />
-    <PackageReference Include="Syncfusion.Blazor.FileManager" Version="21.1.35" />
-    <PackageReference Include="Syncfusion.Blazor.HeatMap" Version="21.1.35" />
-    <PackageReference Include="Syncfusion.Blazor.InPlaceEditor" Version="21.1.35" />
-    <PackageReference Include="Syncfusion.Blazor.Maps" Version="21.1.35" />
     <PackageReference Include="Syncfusion.Blazor.ProgressBar" Version="21.1.35" />
-    <PackageReference Include="Syncfusion.Blazor.Charts" Version="21.1.35" />
     <PackageReference Include="Syncfusion.Blazor.RangeNavigator" Version="21.1.35" />
     <PackageReference Include="Syncfusion.Blazor.StockChart" Version="21.1.35" />
-    <PackageReference Include="Syncfusion.Blazor.BulletChart" Version="21.1.35" />
     <PackageReference Include="Syncfusion.Blazor.SmithChart" Version="21.1.35" />
     <PackageReference Include="Syncfusion.Blazor.Sparkline" Version="21.1.35" />
     <PackageReference Include="Syncfusion.Blazor.WordProcessor" Version="21.1.35" />
-    <PackageReference Include="Syncfusion.Blazor.PdfViewerServer.Windows" Version="21.1.35" />
-    <PackageReference Include="Syncfusion.Blazor.PivotTable" Version="21.1.35" />
     <PackageReference Include="Syncfusion.Licensing" Version="21.1.35" />
     <PackageReference Include="Syncfusion.Presentation.Net.Core" Version="21.1.35" />
     <PackageReference Include="Syncfusion.PresentationRenderer.Net.Core" Version="21.1.35" />
@@ -117,15 +96,5 @@
     <Compile Remove="obj\**" />
     <Content Remove="bin\**" />
     <None Remove="obj\**" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Compile Remove="Pages\DocumentProcessing\Excel\EncryptAndDecryptService.cs" />
-    <Compile Remove="Pages\DocumentProcessing\Excel\FormulasService.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Content Remove="Pages\DocumentProcessing\Excel\EncryptAndDecrypt.razor" />
-    <Content Remove="Pages\DocumentProcessing\Excel\Formulas.razor" />
   </ItemGroup>
 </Project>
