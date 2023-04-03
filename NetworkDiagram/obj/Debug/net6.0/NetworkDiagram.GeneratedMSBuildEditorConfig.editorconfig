@@ -1,0 +1,25 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BlazorDemos
+build_property.RootNamespace = BlazorDemos
+build_property.ProjectDir = E:\Work\CSharp\Blazor\blazor-network-diagram\NetworkDiagram\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Work\CSharp\Blazor\blazor-network-diagram\NetworkDiagram
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Work/CSharp/Blazor/blazor-network-diagram/NetworkDiagram/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Work/CSharp/Blazor/blazor-network-diagram/NetworkDiagram/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

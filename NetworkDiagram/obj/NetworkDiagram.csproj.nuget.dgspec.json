@@ -1,0 +1,280 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Work\\CSharp\\Blazor\\blazor-network-diagram\\NetworkDiagram\\NetworkDiagram.csproj": {}
+  },
+  "projects": {
+    "E:\\Work\\CSharp\\Blazor\\blazor-network-diagram\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Work\\CSharp\\Blazor\\blazor-network-diagram\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "E:\\Work\\CSharp\\Blazor\\blazor-network-diagram\\Common\\Common.csproj",
+        "packagesPath": "D:\\.nuget\\packages",
+        "outputPath": "E:\\Work\\CSharp\\Blazor\\blazor-network-diagram\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "E:\\Work\\CSharp\\Blazor\\blazor-network-diagram\\NetworkDiagram\\NuGet.Config",
+          "C:\\Users\\bigforniture\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Markdig": {
+              "target": "Package",
+              "version": "[0.23.0, )"
+            },
+            "Syncfusion.Blazor.Buttons": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.Blazor.Cards": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.Blazor.Diagram": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.Blazor.Diagrams": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.Blazor.Layouts": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.Blazor.ProgressBar": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.Blazor.QueryBuilder": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.Blazor.RangeNavigator": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.Blazor.Schedule": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.Blazor.SmithChart": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.Blazor.Sparkline": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.Blazor.Spinner": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.Blazor.SplitButtons": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.Blazor.StockChart": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.Blazor.Themes": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.Blazor.TreeGrid": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.Blazor.TreeMap": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.Blazor.WordProcessor": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.DocIO.Net.Core": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.DocIORenderer.Net.Core": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.Licensing": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.Pdf.Net.Core": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.Presentation.Net.Core": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.PresentationRenderer.Net.Core": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.XlsIO.Net.Core": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            },
+            "Syncfusion.XlsIORenderer.Net.Core": {
+              "target": "Package",
+              "version": "[21.1.35, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Work\\CSharp\\Blazor\\blazor-network-diagram\\NetworkDiagram\\NetworkDiagram.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Work\\CSharp\\Blazor\\blazor-network-diagram\\NetworkDiagram\\NetworkDiagram.csproj",
+        "projectName": "NetworkDiagram",
+        "projectPath": "E:\\Work\\CSharp\\Blazor\\blazor-network-diagram\\NetworkDiagram\\NetworkDiagram.csproj",
+        "packagesPath": "D:\\.nuget\\packages",
+        "outputPath": "E:\\Work\\CSharp\\Blazor\\blazor-network-diagram\\NetworkDiagram\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "E:\\Work\\CSharp\\Blazor\\blazor-network-diagram\\NetworkDiagram\\NuGet.Config",
+          "C:\\Users\\bigforniture\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Work\\CSharp\\Blazor\\blazor-network-diagram\\Common\\Common.csproj": {
+                "projectPath": "E:\\Work\\CSharp\\Blazor\\blazor-network-diagram\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Markdig": {
+              "target": "Package",
+              "version": "[0.23.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Hosting": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.AspNetCore.Localization": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.RazorPages": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.14, 6.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

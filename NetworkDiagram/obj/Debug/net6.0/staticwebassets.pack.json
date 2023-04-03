@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Work\\CSharp\\Blazor\\blazor-network-diagram\\NetworkDiagram\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "E:\\Work\\CSharp\\Blazor\\blazor-network-diagram\\NetworkDiagram\\obj\\Debug\\net6.0\\build-gz\\JEKKfcKs.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "E:\\Work\\CSharp\\Blazor\\blazor-network-diagram\\NetworkDiagram\\obj\\Debug\\net6.0\\scopedcss\\bundle\\NetworkDiagram.styles.css",
+      "PackagePath": "staticwebassets\\NetworkDiagram.styles.css"
+    },
+    {
+      "Id": "E:\\Work\\CSharp\\Blazor\\blazor-network-diagram\\NetworkDiagram\\wwwroot\\importResources.js",
+      "PackagePath": "staticwebassets\\importResources.js"
+    },
+    {
+      "Id": "E:\\Work\\CSharp\\Blazor\\blazor-network-diagram\\NetworkDiagram\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\Work\\CSharp\\Blazor\\blazor-network-diagram\\NetworkDiagram\\wwwroot\\version.js",
+      "PackagePath": "staticwebassets\\version.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.NetworkDiagram.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.NetworkDiagram.props",
+      "PackagePath": "build\\NetworkDiagram.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.NetworkDiagram.props",
+      "PackagePath": "buildMultiTargeting\\NetworkDiagram.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.NetworkDiagram.props",
+      "PackagePath": "buildTransitive\\NetworkDiagram.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -14,7 +14,7 @@
 @implements IDisposable;
 
 <CascadingValue Value="@this">
-    <SpinnerComponent @ref="spinnerRef"></SpinnerComponent>
+    <!--<SpinnerComponent @ref="spinnerRef"></SpinnerComponent>-->
     @*Set empty layout to home page and components which have open in new window functionality.*@
     @{
         var isEmptyLayout = SampleService.SampleInfo != null && !UriHelper.Uri.Contains(SampleService.SampleInfo.Url) && SampleService.SampleInfo.MappingSampleName != null;
